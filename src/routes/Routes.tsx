@@ -42,7 +42,7 @@ const routes = createBrowserRouter([
     {
       path : "/dashboard/disclaimer",
 
-      element : <DashboardCommunity></DashboardCommunity>
+    
 
       element : <DasboardDisclaimer/>
 
